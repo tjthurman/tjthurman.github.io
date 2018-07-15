@@ -20,5 +20,3 @@ output:
   html_document:
     theme: readable
     highlight: textmate
-    lib_dir: site_libs
-    self_contained: no
