@@ -1,17 +1,15 @@
 name: "Tim Thurman"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Tim Thurman"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About me"
       icon: fa-user
       href: about.html
     - text: "Research"
       href: research.html
     - text: "CV"
-      href: cv.html
+      href: CV.html
     - text: 
   right:
   - icon: fa-envelope-o
