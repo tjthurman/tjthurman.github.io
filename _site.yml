@@ -10,12 +10,14 @@ navbar:
       href: research.html
     - text: "CV"
       href: cv.html
-    - text: 
   right:
   - icon: fa-envelope-o
     href: mailto:timothy.thurman@mail.mcgill.ca
   - icon: fa-github
     href: https://github.com/tjthurman
+  - icon: fa-researchgate
+    href: https://www.researchgate.net/profile/Timothy_Thurman
+    
 output:
   html_document:
     theme: yeti
