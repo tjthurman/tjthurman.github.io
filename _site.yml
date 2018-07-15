@@ -16,7 +16,7 @@ navbar:
     href: mailto:timothy.thurman@mail.mcgill.ca
   - icon: fa-github
     href: https://github.com/tjthurman
-  - icon: fa-researchgate
+  - icon: ai-researchgate
     href: https://www.researchgate.net/profile/Timothy_Thurman
     
 output:
