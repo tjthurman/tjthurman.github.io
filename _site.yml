@@ -1,6 +1,5 @@
 name: "Tim Thurman"
 output_dir: "."
-include: academicons-1.8.6
 navbar:
   title: "Tim Thurman"
   left:
@@ -23,3 +22,4 @@ output:
   html_document:
     theme: yeti
     highlight: textmate
+    css: academicons-1.8.6/css/academicons.css
