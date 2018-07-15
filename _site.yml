@@ -18,5 +18,5 @@ navbar:
     href: https://github.com/tjthurman
 output:
   html_document:
-    theme: cosmo
+    theme: yeti
     highlight: textmate
