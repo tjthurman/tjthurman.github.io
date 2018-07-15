@@ -2,11 +2,8 @@ name: Herring Cove
 author: Herring Cove
 baseurl: /herring-cove
 description: theme for jekyll
-github: http://www.github.com/arnp
-twitter: http://www.twitter.com/
-facebook: http://www.facebook.com
-linkedin: http://www.linkedin.com
-email: rnpatel[at]me.com
+#github: http://www.github.com/arnp
+email: timothy.thurman@mail.mcgill.ca
 location: 42°2'16"N   70°12'47"W
 disqus: diqus-username
 
@@ -14,7 +11,7 @@ disqus: diqus-username
 
 
 highlighter: pygments
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ["tables"]
 
