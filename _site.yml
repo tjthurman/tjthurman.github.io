@@ -10,7 +10,7 @@ navbar:
       icon: fa-search
       href: research.html
     - text: "Publications"
-      icon: fa-clone
+      icon: fa-copy
       href: publications.html
     - text: "CV"
       icon: fa-align-justify
