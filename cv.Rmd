@@ -2,6 +2,6 @@
 title: "CV"
 ---
 
-View my CV [here](thurman-cv_Nov2017.pdf)
+You can view and download my CV [here](thurman-cv.pdf). It was last updated `r format(Sys.Date(), "%A %B %d %Y" )`
 
 
