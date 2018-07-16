@@ -15,13 +15,6 @@ navbar:
     - text: "CV"
       icon: fa-align-justify
       href: cv.html
-  right:
-  - icon: fa-envelope-o
-    href: mailto:timothy.thurman@mail.mcgill.ca
-  - icon: fa-github
-    href: https://github.com/tjthurman
-  - icon: ai-google-scholar
-    href: https://scholar.google.ca/citations?view_op=list_works&hl=en&user=j-5nTf8AAAAJ&gmla=AJsN-F5SygsvDuBt0TbYUPnoDe2NasrS9VGRzyAqxhbN-oYZxfOsS8GLpP-dD_D2MV0YsoGvc3YezfHZze647uicXefHMurOvZ0IZzFxjbC18RRpyWdXcP0TVW5vNvuqayPuUIa4gdw-
 output:
   html_document:
     theme: yeti
