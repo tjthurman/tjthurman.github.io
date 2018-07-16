@@ -1,4 +1,1 @@
----
-title: "Tim Thurman"
----
-
+<large><center>Tim Thurman</center></large>
