@@ -1,5 +1,10 @@
 ---
-title: "about"
+title: "About me"
 ---
 
-More about this website
+Currently, I'm a PhD student in the [NEO program](https://www.mcgill.ca/neo/) at McGill University. 
+
+I'm jointly advised by Prof. [Rowan Barrett](https://barrettlab.ca) at McGill and Dr. [Owen McMillian](https://stri.si.edu/scientist/owen-mcmillan) at the Smithsonian Tropical Research Institute in Panama.
+
+[<i class="ai ai-google-scholar ai-2x"></i>](https://scholar.google.ca/citations?view_op=list_works&hl=en&user=j-5nTf8AAAAJ&gmla=AJsN-F5SygsvDuBt0TbYUPnoDe2NasrS9VGRzyAqxhbN-oYZxfOsS8GLpP-dD_D2MV0YsoGvc3YezfHZze647uicXefHMurOvZ0IZzFxjbC18RRpyWdXcP0TVW5vNvuqayPuUIa4gdw-) [<i class="fa fa-github fa-2x"></i>](https://github.com/tjthurman) [<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/profile/Timothy_Thurman) [<i class="ai ai-orcid ai-2x"></i>](https://orcid.org/0000-0002-9602-6226)  
+

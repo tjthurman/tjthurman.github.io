@@ -7,19 +7,25 @@ navbar:
       icon: fa-user
       href: about.html
     - text: "Research"
+      icon: fa-search
       href: research.html
+    - text: "Publications"
+      icon: fa-clone
+      href: publications.html
     - text: "CV"
+      icon: fa-align-justify
       href: cv.html
   right:
   - icon: fa-envelope-o
     href: mailto:timothy.thurman@mail.mcgill.ca
   - icon: fa-github
     href: https://github.com/tjthurman
-  - icon: ai-researchgate
-    href: https://www.researchgate.net/profile/Timothy_Thurman
-    
+  - icon: ai-google-scholar
+    href: https://scholar.google.ca/citations?view_op=list_works&hl=en&user=j-5nTf8AAAAJ&gmla=AJsN-F5SygsvDuBt0TbYUPnoDe2NasrS9VGRzyAqxhbN-oYZxfOsS8GLpP-dD_D2MV0YsoGvc3YezfHZze647uicXefHMurOvZ0IZzFxjbC18RRpyWdXcP0TVW5vNvuqayPuUIa4gdw-
 output:
   html_document:
     theme: yeti
     highlight: textmate
     css: academicons-1.8.6/css/academicons.css
+    includes:
+      after_body: footer.html

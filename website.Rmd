@@ -1,0 +1,16 @@
+---
+title: " "
+---
+
+<br />
+
+This website is statically generated using [rmarkdown](https://rmarkdown.rstudio.com) and hosted on [Github pages](https://pages.github.com). Icons are from [Font Awesome](https://fontawesome.com/?from=io) and [Academicons](http://jpswalsh.github.io/academicons/). The theme is modified from a template created by [Florian Privé](https://github.com/privefl/rmarkdown-website-template). The source code can be found in [this GitHub repo](https://github.com/tjthurman/tjthurman.github.io). 
+
+This website was most recently generated on: `r format( Sys.time(), "%a %b %d %X %Y" )`. 
+
+R session information:
+
+```{r session_summary, echo=FALSE, comment=NA}
+	sessionInfo()
+```
+
