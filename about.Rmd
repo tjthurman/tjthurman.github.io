@@ -56,13 +56,14 @@ img {
 <h1>  </h1>
 
 <div class="row">
+  <span title="This is what I look like">
   <div class="column left">
   
-  <img src="headshot.jpg" alt="This is me">
+  <img src="headshot.jpg">
   
   
   </div>
-  
+  </span>
   <div class="column right">
   
   

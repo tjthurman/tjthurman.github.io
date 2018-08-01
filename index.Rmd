@@ -1,7 +1,24 @@
-<style> 
-img {
-  margin-top: 20px;
-}
-</style>
+---
+output: 
+  html_document:
+    css: index_style.css
 
-<img src="landing.jpg" alt = "nice, huh?">
+---
+<a href="about.html">
+<div class="container">
+  <img src="landing.jpg" alt="Avatar" class="image">
+  <div class="overlay"> </div>
+  
+  <div class="overlayTxt">
+  Tim Thurman
+  
+  Evolutionary biologist
+  
+  
+  </div>
+  
+</div>
+</a>
+
+
+
