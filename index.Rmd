@@ -1,1 +1,7 @@
-<large><center>Tim Thurman</center></large>
+<style> 
+img {
+  margin-top: 20px;
+}
+</style>
+
+<img src="landing.jpg" alt = "nice, huh?">

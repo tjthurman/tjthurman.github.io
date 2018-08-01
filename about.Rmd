@@ -1,10 +1,79 @@
----
-title: "About me"
----
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
 
-Currently, I'm a PhD student in the [NEO program](https://www.mcgill.ca/neo/) at McGill University. 
+/* Create two unequal columns that floats next to each other */
+.column {
+    float: left;
+    padding: 5px;
+}
 
-I'm jointly advised by Prof. [Rowan Barrett](https://barrettlab.ca) at McGill and Dr. [Owen McMillian](https://stri.si.edu/scientist/owen-mcmillan) at the Smithsonian Tropical Research Institute in Panama.
+.left {
+  width: 34%;
+  border-right: 2px solid black;
+}
 
-[<i class="fa fa-envelope-o fa-2x"></i>](mailto:timothy.thurman@mail.mcgill.ca) [<i class="ai ai-google-scholar ai-2x"></i>](https://scholar.google.ca/citations?view_op=list_works&hl=en&user=j-5nTf8AAAAJ&gmla=AJsN-F5SygsvDuBt0TbYUPnoDe2NasrS9VGRzyAqxhbN-oYZxfOsS8GLpP-dD_D2MV0YsoGvc3YezfHZze647uicXefHMurOvZ0IZzFxjbC18RRpyWdXcP0TVW5vNvuqayPuUIa4gdw-) [<i class="fa fa-github fa-2x"></i>](https://github.com/tjthurman) [<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/profile/Timothy_Thurman) [<i class="ai ai-orcid ai-2x"></i>](https://orcid.org/0000-0002-9602-6226)  
+.right {
+  padding-top: 75px;
+  width: 66%;
+  text-align: center;
+}
+.coltext {
+  position: inherit;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+</style>
+</head>
+<body>
+
+<h1>  </h1>
+
+<div class="row">
+  <div class="column left">
+  
+  <img src="headshot.jpg" alt="This is me">
+  
+  
+  </div>
+  
+  <div class="column right">
+  
+  
+   Currently, I'm a PhD student in the [NEO program](https://www.mcgill.ca/neo/) at McGill University. 
+   
+   I'm jointly advised by Prof. [Rowan Barrett](https://barrettlab.ca) at McGill and Dr. [Owen McMillian](https://stri.si.edu/scientist/owen-mcmillan) at the Smithsonian Tropical Research Institute in Panama.
+   
+   [<i class="fa fa-envelope-o fa-2x"></i>](mailto:timothy.thurman@mail.mcgill.ca) [<i class="ai ai-google-scholar ai-2x"></i>](https://scholar.google.ca/citations?view_op=list_works&hl=en&user=j-5nTf8AAAAJ&gmla=AJsN-F5SygsvDuBt0TbYUPnoDe2NasrS9VGRzyAqxhbN-oYZxfOsS8GLpP-dD_D2MV0YsoGvc3YezfHZze647uicXefHMurOvZ0IZzFxjbC18RRpyWdXcP0TVW5vNvuqayPuUIa4gdw-) [<i class="fa fa-github fa-2x"></i>](https://github.com/tjthurman) [<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/profile/Timothy_Thurman) [<i class="ai ai-orcid ai-2x"></i>](https://orcid.org/0000-0002-9602-6226)  
+   
+  </div>
+  </div>
+</body>
+
 
