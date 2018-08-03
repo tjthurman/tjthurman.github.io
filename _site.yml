@@ -22,4 +22,5 @@ output:
     css: academicons-1.8.6/css/academicons.css
     description: "The personal website of Timothy Thurman. Evolutionary Biologist"
     includes:
+      before_body: google_analytics.html
       after_body: footer.html
