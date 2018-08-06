@@ -23,4 +23,3 @@ output:
     description: "The personal website of Timothy Thurman. Evolutionary Biologist"
     includes:
       before_body: google_analytics.html
-      after_body: footer.html

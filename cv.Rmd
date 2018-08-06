@@ -1,5 +1,9 @@
 ---
 title: "CV"
+output: 
+  html_document:
+    includes:
+      after_body: footer.html
 ---
 
 You can view and download my CV [here](thurman-cv.pdf). It was last updated on `r format(file.info("thurman-cv.pdf")$ctime, "%B %d, %Y" )`.

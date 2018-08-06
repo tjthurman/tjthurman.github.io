@@ -1,3 +1,10 @@
+---
+output:
+  html_document:
+    includes:
+      after_body: footer.html
+---
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -66,7 +73,7 @@ img {
   </span>
   <div class="column right">
   
-  [I'm an evolutionary biologist.](research.html) 
+  I'm an evolutionary biologist.
   
   Currently, I'm a PhD student in the [NEO program](https://www.mcgill.ca/neo/) at McGill University. I expect to graduate in 2019. 
    

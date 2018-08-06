@@ -2,8 +2,8 @@
 output: 
   html_document:
     css: index_style.css
-
 ---
+
 <a href="about.html">
 <div class="container">
   <img src="landing.jpg" alt="Avatar" class="image">

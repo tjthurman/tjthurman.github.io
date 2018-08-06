@@ -1,8 +1,12 @@
 ---
 title: "Publications"
+output:
+  html_document:
+    includes:
+      after_body: footer.html
 ---
 
-<!-- A little trick I found on line to make a new list that indents without bullet points --> 
+<!-- A little trick I found online to make a new list that indents without bullet points --> 
 <style>
 .nobullet li {
   list-style-type: none;
