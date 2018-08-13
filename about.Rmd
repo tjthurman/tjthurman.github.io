@@ -72,11 +72,9 @@ img {
   
   I'm an evolutionary biologist.
   
-  Currently, I'm a PhD student in the [NEO program](https://www.mcgill.ca/neo/) at McGill University. I expect to graduate in 2019. 
-   
-   I'm jointly advised by Dr. [Rowan Barrett](https://barrettlab.ca) at McGill and Dr. [Owen McMillan](https://stri.si.edu/scientist/owen-mcmillan) at the Smithsonian Tropical Research Institute in Panama.
-   
-   
+  Currently, I'm a PhD student in the [NEO program](https://www.mcgill.ca/neo/) at McGill University. I'm jointly advised by Dr. [Rowan Barrett](https://barrettlab.ca) at McGill and Dr. [Owen McMillan](https://stri.si.edu/scientist/owen-mcmillan) at the Smithsonian Tropical Research Institute in Panama.
+  
+I expect to graduate in 2019, and am currently looking for postdoctoral research opportunities starting in the fall of 2019. I'm particularly interested in continuing to develop my bioinformatic skills, and in working at institutions with strong undergraduate research programs through which I could supervise undergraduate research projects.  
    
    <span title="Email"> [<i class="fa fa-envelope-o fa-2x"></i>](mailto:timothy.thurman@mail.mcgill.ca) </span> <span title="Google Scholar">  [<i class="ai ai-google-scholar ai-2x"></i>](https://scholar.google.ca/citations?view_op=list_works&hl=en&user=j-5nTf8AAAAJ&gmla=AJsN-F5SygsvDuBt0TbYUPnoDe2NasrS9VGRzyAqxhbN-oYZxfOsS8GLpP-dD_D2MV0YsoGvc3YezfHZze647uicXefHMurOvZ0IZzFxjbC18RRpyWdXcP0TVW5vNvuqayPuUIa4gdw-) </span> <span title="GitHub">   [<i class="fa fa-github fa-2x"></i>](https://github.com/tjthurman) </span> <span title="ResearchGate">   [<i class="ai ai-researchgate ai-2x"></i>](https://www.researchgate.net/profile/Timothy_Thurman) </span> <span title="OrcID">   [<i class="ai ai-orcid ai-2x"></i>](https://orcid.org/0000-0002-9602-6226) </span> <span title="Mailing address"> [<i class="fa fa-map-marker-alt fa-2x"></i>](https://www.google.com/maps/place/Redpath+Museum/@45.5044868,-73.5797139,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a47279b007b:0xbe8a7d9f319d4f92!8m2!3d45.5044831!4d-73.5775199) </span>
    
