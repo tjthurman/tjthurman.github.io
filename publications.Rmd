@@ -23,7 +23,8 @@ An up-to-date list of my publications can also be found on my [Google Scholar](h
 <!-- Then, calling that new class to make indents for the list. Create the elements in the list with the 0., then add the number of each paper with X\., which escapes the period and allows it to be used. --> 
 <div class="nobullet">
 
-  0. 6\. **Thurman, T.J.**, Szejner-Sigal, A., McMillan, W.O. Movement of a *Heliconius* hybrid zone over 30 years: a Bayesian approach. Accepted at *Journal of Evolutionary Biology*.
+  0. 6\. **Thurman, T.J.**, Szejner-Sigal, A., McMillan, W.O. Movement of a *Heliconius* hybrid zone over 30 years: a Bayesian approach. In press at *Journal of Evolutionary Biology*. [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1111/jeb.13499)[<i class="ai ai-dryad ai-lg"></i>](https://doi.org/10.5061/dryad.c157v0v)[<i class="fa fa-github fa-lg"></i>](https://github.com/tjthurman/hz_jeb) 
+
 
   0. 5\. Hu, J., Askary, A.M., **Thurman, T.J.**, Spiller, D. Palmer, T.M., Pringle, R.M., Barrett, R.D.H. 2019. Epigenetic signatures of colonizing new environments in *Anolis* lizards. In press at *Molecular Biology and Evolution*. [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1093/molbev/msz133)
 
