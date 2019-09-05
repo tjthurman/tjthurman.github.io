@@ -23,10 +23,9 @@ An up-to-date list of my publications can also be found on my [Google Scholar](h
 <!-- Then, calling that new class to make indents for the list. Create the elements in the list with the 0., then add the number of each paper with X\., which escapes the period and allows it to be used. --> 
 <div class="nobullet">
 
-  0. 6\. **Thurman, T.J.**, Szejner-Sigal, A., McMillan, W.O. Movement of a *Heliconius* hybrid zone over 30 years: a Bayesian approach. In press at *Journal of Evolutionary Biology*. [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1111/jeb.13499)[<i class="ai ai-dryad ai-lg"></i>](https://doi.org/10.5061/dryad.c157v0v)[<i class="fa fa-github fa-lg"></i>](https://github.com/tjthurman/hz_jeb) 
+  0. 6\. Hu, J., Askary, A.M., **Thurman, T.J.**, Spiller, D. Palmer, T.M., Pringle, R.M., Barrett, R.D.H. 2019. Epigenetic signatures of colonizing new environments in *Anolis* lizards. In press at *Molecular Biology and Evolution*. [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1093/molbev/msz133)
 
-
-  0. 5\. Hu, J., Askary, A.M., **Thurman, T.J.**, Spiller, D. Palmer, T.M., Pringle, R.M., Barrett, R.D.H. 2019. Epigenetic signatures of colonizing new environments in *Anolis* lizards. In press at *Molecular Biology and Evolution*. [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1093/molbev/msz133)
+  0. 5\. **Thurman, T.J.**, Szejner-Sigal, A., McMillan, W.O. Movement of a *Heliconius* hybrid zone over 30 years: a Bayesian approach. *Journal of Evolutionary Biology*, **32**(9):974-983. [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1111/jeb.13499)[<i class="ai ai-dryad ai-lg"></i>](https://doi.org/10.5061/dryad.c157v0v)[<i class="fa fa-github fa-lg"></i>](https://github.com/tjthurman/hz_jeb) 
 
   0. 4\. Pringle, R.M.\*, Kartzinel, T.R.\*, Palmer, T.M.\*, **Thurman, T.J.**, Fox-Dobbs, K., Xu, C.C.Y., Hutchinson, M.C., Coverdale, T.C., Daskin, J.H., Evangelista, D.A., Gotanda, K.M., Man in ’t Veld, N.A., Wegener, J.E., Kolbe, J.J., Schoener, T.W., Spiller, D.A., Losos, J.B., Barrett, R.D.H. 2019. Predator-induced collapse of niche structure and species coexistence. *Nature*, **570**(7759):58-64. [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1038/s41586-019-1264-6)[<i class="ai ai-dryad ai-lg"></i>](https://doi.org/10.5061/dryad.2h87r1f)
 
